@@ -1,0 +1,17 @@
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+table thead td{
+    border: 1px solid white;
+    padding: 30px 50px;
+    background-color: black;
+    color: white;
+}
+table tbody tr td{
+    border: 1px solid gray;
+    padding: 30px 50px;
+    background-color: rgb(7, 113,113);
+    color: white;
+}
